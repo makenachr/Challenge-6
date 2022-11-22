@@ -10,4 +10,4 @@ Weather Dashboard allows a user to search for a city and then get the current we
 
 ## Deployed Application
 
-
+(https://makenachr.github.io/Challenge-6/)
